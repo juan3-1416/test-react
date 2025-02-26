@@ -5,4 +5,6 @@ Version de node
 
 ```bash
     nvm use 18.18.0
+    npm install
+    npm start
 ```
