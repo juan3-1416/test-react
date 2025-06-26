@@ -2,9 +2,8 @@
 
 **Fecha**: Junio 2025  
 **Proyecto**: Desarrollo de plataforma eCommerce para OLIBASU  
-**Cliente**: Taller de Actualización III – Universidad  
-**Equipo**: Mateo Ribera, Johana Amin, Matias Arauz, Maria Zurita, Fabricio Paz  
-**Docente Supervisor**: Lic. Jhossua Espinoza
+**Cliente**: Olibasu  
+
 
 ---
 
@@ -105,11 +104,11 @@ Desarrollar una plataforma de comercio electrónico para la marca OLIBASU enfoca
 
 | Concepto                              | Costo Estimado (Bs) |
 |---------------------------------------|----------------------|
-| Prototipado y diseño UI               | 500                  |
-| Desarrollo de frontend completo       | 1200                 |
-| Módulo de carrito y checkout          | 800                  |
-| Documentación y pruebas finales       | 300                  |
-| **Total**                             | **Bs 2800**          |
+| Prototipado y diseño UI               | 2000                 |
+| Desarrollo de frontend completo       | 12000                |
+| Módulo de carrito y checkout          | 5000                 |
+| Documentación y pruebas finales       | 2000                 |
+| **Total**                             | **Bs 21000**         |
 
-> _Cotización referencial para fines académicos._
+
 
